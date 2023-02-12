@@ -443,6 +443,31 @@
 	desc = "An expensive coat with a huge lapel."
 	icon_state = "fashionable_coat"
 	body_parts_covered = UPPER_TORSO|ARMS|LEGS
+	cold_protection = UPPER_TORSO|LOWER_TORSO
+
+/obj/item/clothing/suit/storage/warm_coat
+	name = "down coat"
+	desc = "Warm coat for low temperature."
+	icon_state = "warm_coat"
+	body_parts_covered = UPPER_TORSO|ARMS|LEGS
+
+/obj/item/clothing/suit/storage/toggle/bd_jacket
+	name = "Blue Jacket."
+	desc = "Nice jacket."
+	icon_state = "bd_jacket"
+	item_state = "bd_jacket"
+	icon_open = "bd_jacket_open"
+	icon_closed = "bd_jacket"
+	body_parts_covered = UPPER_TORSO|ARMS|LEGS
+
+/obj/item/clothing/suit/storage/toggle/polizei
+	name = "polizei Jacket."
+	desc = "Nice jacket."
+	icon_state = "polizei"
+	item_state = "polizeit"
+	icon_open = "polizei_open"
+	icon_closed = "polizei"
+	body_parts_covered = UPPER_TORSO|ARMS|LEGS
 
 //This one has buttons for some reason
 /obj/item/clothing/suit/storage/toggle/brown_jacket
