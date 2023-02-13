@@ -383,28 +383,28 @@
 	desc = "Edgy asia hat."
 	armor = list(melee = 10, bullet = 10, laser = 5,energy = 0, bomb = 0, bio = 0)
 
-	/obj/item/clothing/head/agua_helmet
+/obj/item/clothing/head/agua_helmet
 	name = "agua helmet"
 	icon_state = "agua_helmet"
 	item_state = "agua_helmet"
 	desc = "Water."
 	armor = list(melee = 10, bullet = 10, laser = 5,energy = 0, bomb = 0, bio = 0)
 
-	/obj/item/clothing/head/crown
+/obj/item/clothing/head/crown
 	name = "crown"
 	icon_state = "crown"
 	item_state = "crown"
 	desc = "Royal gold."
 	armor = list(melee = 10, bullet = 10, laser = 5,energy = 0, bomb = 0, bio = 0)
 
-	/obj/item/clothing/head/antenna
+/obj/item/clothing/head/antenna
 	name = "antenna"
 	icon_state = "antenna"
 	item_state = "antenna"
 	desc = "Alien accesuar fron WetSkrell."
 	armor = list(melee = 10, bullet = 10, laser = 5,energy = 0, bomb = 0, bio = 0)
 
-	/obj/item/clothing/head/tiara
+/obj/item/clothing/head/tiara
 	name = "tiara"
 	icon_state = "tiara"
 	item_state = "tiara"

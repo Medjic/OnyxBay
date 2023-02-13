@@ -464,7 +464,7 @@
 	name = "polizei Jacket."
 	desc = "Nice jacket."
 	icon_state = "polizei"
-	item_state = "polizeit"
+	item_state = "polizei"
 	icon_open = "polizei_open"
 	icon_closed = "polizei"
 	body_parts_covered = UPPER_TORSO|ARMS|LEGS
