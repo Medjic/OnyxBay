@@ -443,8 +443,8 @@
 	desc = "A green jacket."
 	icon_state = "vpp_jacket"
 	item_state = "vpp_jacket"
-	icon_open = "pvpp_jacket_open"
-	icon_closed = "vpp_jacket_TS"
+	icon_open = "vpp_jacket_open"
+	icon_closed = "vpp_jacket"
 	body_parts_covered = UPPER_TORSO|ARMS
 	siemens_coefficient = 0.7
 	initial_closed = TRUE
