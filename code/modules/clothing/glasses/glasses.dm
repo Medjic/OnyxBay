@@ -252,17 +252,17 @@
 	siemens_coefficient = 0.6
 	electric = TRUE
 
-/obj/item/clothing/glasses/welding/magma_dark_glasses
+/obj/item/clothing/glasses/magma_dark_glasses
 	name = "dark angled glasses"
 	desc = "Welding goggles made from more expensive materials, strangely smells like potatoes."
 	icon_state = "magma_dark_glasses"
 
-/obj/item/clothing/glasses/welding/magma_red_glasses
+/obj/item/clothing/glasses/magma_red_glasses
 	name = "red angled glasses"
 	desc = "Welding goggles made from more expensive materials, strangely smells like potatoes."
 	icon_state = "magma_red_glasses"
 
-/obj/item/clothing/glasses/welding/magma_dual_glasses
+/obj/item/clothing/glasses/magma_dual_glasses
 	name = "dual angled glasses"
 	desc = "Welding goggles made from more expensive materials, strangely smells like potatoes."
 	icon_state = "magma_dual_glasses"

@@ -410,3 +410,10 @@
 	item_state = "tiara"
 	desc = "Royal Silver."
 	armor = list(melee = 10, bullet = 10, laser = 5,energy = 0, bomb = 0, bio = 0)
+
+/obj/item/clothing/head/vpp_cap
+	name = "vpp cap"
+	icon_state = "vpp_cap"
+	item_state = "vpp_cap"
+	desc = "Green Cap."
+	armor = list(melee = 10, bullet = 10, laser = 5,energy = 0, bomb = 0, bio = 0)

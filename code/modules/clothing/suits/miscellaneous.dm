@@ -438,6 +438,17 @@
 	siemens_coefficient = 0.7
 	initial_closed = TRUE
 
+/obj/item/clothing/suit/storage/toggle/vpp_jacket
+	name = "vpp jacket"
+	desc = "A green jacket."
+	icon_state = "vpp_jacket"
+	item_state = "vpp_jacket"
+	icon_open = "pvpp_jacket_open"
+	icon_closed = "vpp_jacket_TS"
+	body_parts_covered = UPPER_TORSO|ARMS
+	siemens_coefficient = 0.7
+	initial_closed = TRUE
+
 /obj/item/clothing/suit/storage/fashionable_coat
 	name = "fashionable coat"
 	desc = "An expensive coat with a huge lapel."
